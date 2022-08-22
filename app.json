@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "device_manager",
+    "slug": "device_manager",
+    "ios": {
+      "usesIcloudStorage": true
+    },
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "device_manager"
+}
